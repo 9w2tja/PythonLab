@@ -1,4 +1,4 @@
-# Python Lab
+# Python Lab (Pre Lab Test)
 - TTTK2053 - Paradigma Pengaturcaraan (WP)
 - Fakulti Teknologi & Sains Maklumat (FTSM)
 - Universiti Kebangsaan Malaysia (UKM)
